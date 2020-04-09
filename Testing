@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Reverting...
+=======
+This is testing for the git rebase command
+>>>>>>> parent of 2abba45... Resolving merge conflict using mergetool command
