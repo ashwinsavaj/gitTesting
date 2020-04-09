@@ -1,2 +1,6 @@
-This is testing for the git rebase command
-This will create merge conflict with master branch
+
+
+
+
+Resolving merge conflict using mergetool command
+
